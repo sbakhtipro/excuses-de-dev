@@ -1,4 +1,3 @@
-
 # Excuses de dev
 
 Projet permettant de générer des excuses choisies aléatoirement depuis une base de données réalisé dans le cadre d'un test.
@@ -56,7 +55,7 @@ Projet permettant de générer des excuses choisies aléatoirement depuis une ba
 
 ## Installation
 
-1. Cloner le repository avec git clone https://github.com/lien
+1. Cloner le repository avec git clone https://github.com/sbakhtipro/excuses-de-dev
 2. Ouvrir dans un serveur local (WAMP, LAMP, XAMPP)
 3. Créer un virtualhost qui pointe sur le dossier excuses-de-dev et effectuer un redémarrer Apache (redémarrage DNS sur WAMP)
 4. Se rendre sur l'URL excuses-de-dev/
