@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url(Poppins/Poppins-Regular.ttf);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+body {
+    background-color: #0384BE;
+    font-family: 'Poppins', sans-serif;
+}
+
+.root {
+    margin: 200px auto;
+    padding: 1rem;
+    max-width: 500px;
+    position: relative;
+}
