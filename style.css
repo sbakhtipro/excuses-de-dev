@@ -126,3 +126,13 @@ body {
     top: 0;
     padding: 30px 20px; 
 }
+
+.gif {
+    width: 100%;
+}
+
+@media (max-width:600px) {
+    .root {
+        margin: 30px auto;
+    }
+}
